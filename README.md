@@ -10,11 +10,11 @@
           🧑‍💻. I specialize in JavaScript, building dynamic and scalable web
           applications. I am currently pursuing a Bachelor of Computer
           Applications (BCA 4 year) and exploring advanced technologies like
-          Next.js, GraphQL, and Firebase. My goal is to create efficient and
+          Next.js, GraphQL, and Kafka. My goal is to create efficient and
           user friendly software solutions. I love solving problems, learning
           new technologies, and improving my development skills. When I’m not
           coding, I enjoy football, especially FC Barcelona! ⚽🚀 I also have a
-          keen interest in computer science, physics, and space related topics.
+          keen interest in computer science, Ai, and space related topics.
         </p>
       </div>
       <img height="20" />
