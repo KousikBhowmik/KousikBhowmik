@@ -20,7 +20,6 @@
       <img height="20" />
       <div>
         <h2>Tech Stack & Tools I Use ⚒️💻</h2>
-        <img height="10" />
         <div>
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img
@@ -154,7 +153,6 @@
       <img height="20" />
       <div>
         <h2>Get in Touch 📩</h2>
-        <img height="10" />
         <div>
           <a href="https://x.com/kousikgg" target="_blank">
             <img
@@ -215,7 +213,7 @@
           </a>
         </div>
       </div>
-      <img height="20" />
+      <img height="40" />
       <div>
         <img
           height="150"
