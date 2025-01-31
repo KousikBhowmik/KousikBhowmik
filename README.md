@@ -1,6 +1,8 @@
 <div align="center">
       <div>
         <h1>Hello World! 👋 I'm Kousik 🧑‍💻</h1>
+            <img height="20" />
+        <img height="200" src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/kousik_circle_web.webp" >
         <img height="20" />
         <h2>About me</h2>
         <p>
