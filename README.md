@@ -1,12 +1,18 @@
 <div align="center">
       <div>
-        <h2>
-          Hello World! 👋 I'm Kousik 🧑‍💻
-        </h2>
-        <img height="20">
+        <h1>Hello World! 👋 I'm Kousik 🧑‍💻</h1>
+        <img height="20" />
         <h2>About me</h2>
         <p>
-          I am Kousik Bhowmik, a passionate Full Stack Web Developer from India 🧑‍💻. I specialize in JavaScript, building dynamic and scalable web applications. I am currently pursuing a Bachelor of Computer Applications (BCA 4 year) and exploring advanced technologies like Next.js, GraphQL, and Firebase. My goal is to create efficient and user friendly software solutions. I love solving problems, learning new technologies, and improving my development skills. When I’m not coding, I enjoy football, especially FC Barcelona! ⚽🚀 I also have a keen interest in computer science, physics, and space related topics.
+          I am Kousik Bhowmik, a passionate Full Stack Web Developer from India
+          🧑‍💻. I specialize in JavaScript, building dynamic and scalable web
+          applications. I am currently pursuing a Bachelor of Computer
+          Applications (BCA 4 year) and exploring advanced technologies like
+          Next.js, GraphQL, and Firebase. My goal is to create efficient and
+          user friendly software solutions. I love solving problems, learning
+          new technologies, and improving my development skills. When I’m not
+          coding, I enjoy football, especially FC Barcelona! ⚽🚀 I also have a
+          keen interest in computer science, physics, and space related topics.
         </p>
       </div>
       <img height="20" />
@@ -14,35 +20,133 @@
         <h2>Tech Stack & Tools I Use ⚒️💻</h2>
         <img height="10" />
         <div>
-          <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" >
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/javascript.svg"
+            />
+          </a>
           <img width="12" />
-         <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" >
+          <a href="https://www.typescriptlang.org/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/typescript.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png" >
+          <a href="https://www.python.org/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/python.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" >
+          <a href="https://www.mongodb.com/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/mongodb.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" >
+          <a href="https://expressjs.com/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/expressjs_dark.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" >
+          <a href="https://react.dev/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/react_dark.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://nodejs.org/static/logos/jsIconGreen.svg" >
+          <a href="https://nodejs.org/en" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/nodejs.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" >
+          <a href="https://tailwindcss.com/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/tailwindcss.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg" >
+          <a href="https://nextjs.org/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/nextjs_icon_dark.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://e7.pngegg.com/pngimages/413/852/png-clipart-redux-react-logo-javascript-dq-purple-violet-thumbnail.png" >
+          <a href="https://redux.js.org/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/redux.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" >
+          <a href="https://graphql.org/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/graphql.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" >
+          <a href="https://kafka.apache.org/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/apache-kafka.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://git-scm.com/images/logos/logomark-orange@2x.png" >
+          <a href="https://git-scm.com/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/git.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" >
+          <a href="https://code.visualstudio.com/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/vscode.svg"
+            />
+          </a>
           <img width="12" />
-          <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" >
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/html5.svg"
+            />
+          </a>
+          <img width="12" />
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/css_old.svg"
+            />
+          </a>
         </div>
       </div>
       <img height="20" />
@@ -51,31 +155,65 @@
         <img height="10" />
         <div>
           <a href="https://x.com/kousikgg" target="_blank">
-            <img width="40" height="40" src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/x_dark.svg"
+            />
           </a>
           <img width="12" />
-          <a  href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=contact.kousikbhowmik@gmail.com" target="_blank">
-           <img width="40" height="40" src="https://pbs.twimg.com/profile_images/1313394640393957378/L0W5hykJ_400x400.jpg">
+          <a
+            href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=contact.kousikbhowmik@gmail.com"
+            target="_blank"
+          >
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/gmail.svg"
+            />
           </a>
           <img width="12" />
           <a href="https://www.instagram.com/kousik2.0/" target="_blank">
-           <img width="40" height="40" src="https://pbs.twimg.com/profile_images/1526231349354303489/3Bg-2ZsT_400x400.jpg">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/instagram_dark.svg"
+            />
           </a>
           <img width="12" />
-          <a  href="https://www.linkedin.com/in/kousik-bhowmik/" target="_blank"> 
-            <img width="40" height="40" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png">
+          <a href="https://www.linkedin.com/in/kousik-bhowmik/" target="_blank">
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/linkedin.svg"
+            />
           </a>
           <img width="12" />
-          <a  href="https://bsky.app/profile/kousikbhowmik.bsky.social" target="_blank">
-           <img width="40" height="40" src="https://pbs.twimg.com/profile_images/1738291333268377600/QjJngnVB_400x400.jpg">
+          <a
+            href="https://bsky.app/profile/kousikbhowmik.bsky.social"
+            target="_blank"
+          >
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/bluesky.svg"
+            />
           </a>
           <img width="12" />
-          <a   href="https://www.facebook.com/profile.php?id=100040927358293" target="_blank">
-            <img width="40" height="40" src="https://pbs.twimg.com/profile_images/1704525466651033600/lSj99dbT_400x400.jpg" alt="facebook">
+          <a
+            href="https://www.facebook.com/profile.php?id=100040927358293"
+            target="_blank"
+          >
+            <img
+              width="40"
+              height="40"
+              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/facebook.svg"
+              alt="facebook"
+            />
           </a>
         </div>
       </div>
-      <img height="20">
+      <img height="20" />
       <div>
         <img
           height="150"
