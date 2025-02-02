@@ -10,7 +10,7 @@
           🧑‍💻. I specialize in JavaScript, building dynamic and scalable web
           applications. I am currently pursuing a Bachelor of Computer
           Applications (BCA 4 year) and exploring advanced technologies like
-          Next.js, GraphQL, and Kafka. My goal is to create efficient and
+          Next.js, GraphQL etc. My goal is to create efficient and
           user friendly software solutions. I love solving problems, learning
           new technologies, and improving my development skills. When I’m not
           coding, I enjoy football, especially FC Barcelona! ⚽🚀 I also have a
@@ -106,14 +106,6 @@
               width="40"
               height="40"
               src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/graphql.svg"
-            />
-          </a>
-          <img width="12" />
-          <a href="https://kafka.apache.org/" target="_blank">
-            <img
-              width="40"
-              height="40"
-              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/apache-kafka.svg"
             />
           </a>
           <img width="12" />
