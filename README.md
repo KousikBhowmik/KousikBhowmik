@@ -101,14 +101,6 @@
             />
           </a>
           <img width="12" />
-          <a href="https://graphql.org/" target="_blank">
-            <img
-              width="40"
-              height="40"
-              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/graphql.svg"
-            />
-          </a>
-          <img width="12" />
           <a href="https://git-scm.com/" target="_blank">
             <img
               width="40"
