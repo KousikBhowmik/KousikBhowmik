@@ -2,9 +2,6 @@
       <div>
         <h1>Hello World! 👋 I'm Kousik 🧑‍💻</h1>
             <img height="20" />
-        <img height="200" src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/kousik_circle_web.webp" >
-        <img height="20" />
-        <h2>About me</h2>
         <p>
           I am Kousik Bhowmik, a passionate Full Stack Web Developer from India
           🧑‍💻. I specialize in JavaScript, building dynamic and scalable web
