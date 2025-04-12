@@ -161,37 +161,6 @@
               src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/instagram_dark.svg"
             />
           </a>
-          <img width="12" />
-          <a href="https://www.linkedin.com/in/kousik-bhowmik/" target="_blank">
-            <img
-              width="40"
-              height="40"
-              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/linkedin.svg"
-            />
-          </a>
-          <img width="12" />
-          <a
-            href="https://bsky.app/profile/kousikbhowmik.bsky.social"
-            target="_blank"
-          >
-            <img
-              width="40"
-              height="40"
-              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/bluesky.svg"
-            />
-          </a>
-          <img width="12" />
-          <a
-            href="https://www.facebook.com/profile.php?id=100040927358293"
-            target="_blank"
-          >
-            <img
-              width="40"
-              height="40"
-              src="https://github.com/KousikBhowmik/HTML-CSS-JS-Projects/raw/main/Assets/facebook.svg"
-              alt="facebook"
-            />
-          </a>
         </div>
       </div>
       <img height="40" />
